@@ -1,0 +1,38 @@
+{
+  "light": {
+    "name": "Light",
+    "id": "001",
+    "colors": {
+      "background": "#FFFFFF",
+      "buttonBackground": "#191716",
+      "text": "#191716",
+      "buttonText": "#FFFFFF",
+      "statusBar": {
+        "background": "#FFFFFF",
+        "content": "dark-content"
+      },
+      "switch": {
+        "background": "#191716",
+        "circle": "#FFFFFF"
+      }
+    }
+  },
+  "dark": {
+    "name": "Dark",
+    "id": "002",
+    "colors": {
+      "background": "#191716",
+      "buttonBackground": "#FFFFFF",
+      "text": "#FFFFFF",
+      "buttonText": "#191716",
+      "statusBar": {
+        "background": "#191716",
+        "content": "light-content"
+      },
+      "switch": {
+        "background": "#FFFFFF",
+        "circle": "#191716"
+      }
+    }
+  }
+}
